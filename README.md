@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SalviaCoruja
 - 👀 I’m interested in Web Devlopment and Sustainable living
 - 🌱 I’m currently learning VERY basic JavaScript
-- 💞️ I’m looking to collaborate on some <em>really</em> cool projects in the near future
-- 📫 How to reach me... When I become someone worth 'reaching out to' we'll retouch this point
+- 💞️ I’m looking to collaborate on some <em>really</em> cool projects in the near future that can mix my two passions!
+- 📫 How to reach me... Here! When I become someone worth 'reaching out to' we'll retouch this point.
 - ⚡ Fun fact: I tought myself how to speak conversational Japaneese. No Not For Anime! 
 
 <!---
